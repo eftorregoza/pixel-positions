@@ -24,16 +24,3 @@ This project served as a hands-on exercise to understand the core features of th
 - Authentication scaffolding (optional)
 
 ---
-
-## 🔧 Installation
-
-To run this project locally:
-
-```bash
-git clone https://github.com/your-username/pixel-positions.git
-cd pixel-positions
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve

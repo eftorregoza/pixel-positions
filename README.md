@@ -24,3 +24,5 @@ This project served as a hands-on exercise to understand the core features of th
 - Authentication scaffolding (optional)
 
 ---
+
+Thanks!
